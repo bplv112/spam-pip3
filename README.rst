@@ -37,7 +37,7 @@ From PyPI (stable)::
 
 From Github (unstable)::
 
-    pip install git+git://github.com/fmarani/spam.git#egg=spam-blocklists
+    pip install git+git://github.com/bplv112/spam-pip3.git#egg=spam-blocklists
 
 Use
 ---
